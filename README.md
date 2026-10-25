@@ -18,4 +18,4 @@
 * **Akıllı Zip Sıkıştırma:** Veritabanını ham `.sql` yerine `.zip` formatında sıkıştırarak Discord limitlerini korur.
 * **Disk Temizleyici:** `config.js` içerisindeki `maxLocalBackups` sınırına göre eski yedekleri klasörden otomatik temizler.
 * **Çoklu Sağlayıcı:** XAMPP ve AppServ konumlarını disk üzerinde otomatik olarak bulur.
-* **Yetki Koruması:** Manuel yedek alma komutu yalnızca `Yönetici` (Administrator) yetkisine sahip yetkililere açıktır.
+* **Yetki Koruması:** Manuel yedek alma komutu yalnızca `Yönetici` yetkisine sahip yetkililere açıktır.
